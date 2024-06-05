@@ -1,0 +1,5 @@
+#Step one create a .py file for example use vi ian.py
+#step two the program should print this is ian practicing 
+#so the command is print 
+#wording is - print("This is Ian,trying out this .")
+#Goodluck!
